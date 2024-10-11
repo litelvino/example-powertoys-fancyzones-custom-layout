@@ -421,7 +421,7 @@
           ]
         ],
         "show-spacing": true,
-        "spacing": 10,
+        "spacing": 3,
         "sensitivity-radius": 10
       }
     }
